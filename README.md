@@ -70,7 +70,7 @@ Laboratory solutions for the Algorithm Design course @ Faculty of Automatic Cont
     * Edmonds-Karp Algorithm
   
 * **Lab 12**:
-  * Heuristic Search Algorithms. A* [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator11)
+  * Heuristic Search Algorithms. A* [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator12)
     * PACMAN
   
 ### Author
