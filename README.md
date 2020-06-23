@@ -43,7 +43,7 @@ Laboratory solutions for the Algorithm Design course @ Faculty of Automatic Cont
 * **Lab 7**:
   * Graph Traversals. Topological Sort [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator7)
     * BFS [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator7/java/task-1)
-    * Topological Sort [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator7/java/task-1)
+    * Topological Sort [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator7/java/task-2)
     * Lee Algorithm [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator7/java/Bonus-lab7-PA)
 
 * **Lab 8**:
