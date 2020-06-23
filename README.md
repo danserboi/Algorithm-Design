@@ -55,7 +55,7 @@ Laboratory solutions for the Algorithm Design course @ Faculty of Automatic Cont
 
 * **Lab 9**:
   * Shortest Path Problem [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator9)
-    * Dijkstra Algorithm [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator9/java/task-1)
+    * Dijkstra Algorithm (Array&Heap Implementations) [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator9/java/task-1)
     * Bellman-Ford Algorithm [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator9/java/task-2)
     * Floyd-Warshall Algorithm [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator9/java/task-3)
     * Shortest Path Reconstruction (with Dijkstra) [source](https://github.com/danserboi/Algorithm-Design/tree/master/laborator9/java/Bonus-lab9-pa)
